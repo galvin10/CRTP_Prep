@@ -133,4 +133,11 @@ When using .NET (or any compiled language) offensively, three recurring problems
 
 ---
 
+##References
+
+
+- [ ] https://github.com/t3hbb/DefenderCheck
+- [ ] https://github.com/OmerYa/Invisi-Shell
+- [ ] https://github.com/danielbohannon/Invoke-CradleCrafter
+
 *Next: Module 2 — AD Enumeration*
