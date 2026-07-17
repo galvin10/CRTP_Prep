@@ -133,7 +133,7 @@ When using .NET (or any compiled language) offensively, three recurring problems
 
 ---
 
-##References
+## References
 
 
 - [ ] https://github.com/t3hbb/DefenderCheck
